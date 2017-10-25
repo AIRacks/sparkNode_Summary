@@ -1,0 +1,6 @@
+[submodule "apache-spark-node"]
+path=apache-spark-node
+url = https://github.com/henridf/apache-spark-node
+[submodule "eclairjs-node"]
+path=eclairjs-node
+url = https://github.com/EclairJS/eclairjs-node
